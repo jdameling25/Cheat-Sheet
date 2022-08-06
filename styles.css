@@ -1,0 +1,47 @@
+body {
+    background-color: aliceblue;
+}
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    color:blue;
+    text-align: center;
+}
+
+h2 {
+    color:blueviolet;
+    text-align: center;
+}
+
+table {
+    border: 5px solid;
+    border-color: purple;
+    margin: 0 auto;
+}
+
+td {
+    border-top: 1px solid;
+    border-left: 1px solid;
+    border-color: plum;
+    padding: 4px 15px;
+}
+
+th {
+    background-color: powderblue;
+    padding: 4px;
+}
+
+.code {
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow:  beige;
+}
+
+mark {
+    background-color:blanchedalmond;
+}
+
+h5 {
+    text-align: center;
+}
